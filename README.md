@@ -1,5 +1,8 @@
 ### **WARNING: INSTALLATION OF THIS MOD WILL DELETE ALL OF YOUR SAVES DUE TO CHANGES MADE TO DATATABLES. IF YOUR SAVES MATTER TO YOU MAKE SURE TO MAKE BACKUPS BEFORE INSTALLING THE MOD AND BOOTING UP THE GAME. Thank you!**
 
+# How to Contribute
+**If you would like to make changes to this project, you can fork from the default branch to get started. Once you have completed working on a bug fix or feature, please submit a Pull Request back into main with your changes.**
+
 # Links
 ```
 KH3 Randomizer Website: https://kh3rando.com/
